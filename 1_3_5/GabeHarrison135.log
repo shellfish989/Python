@@ -1,0 +1,141 @@
+%cd "C:\Users\G.Harrison\Documents\Python\1.3.5"
+%cd "/\\bssd-stu-fs02\Canopy\App\appdata"
+# Thu, 10 Nov 2016 12:37:23
+from __future__ import print_function
+# Thu, 10 Nov 2016 12:38:20
+if raw_input('One character: ') == '!':
+    print('Wow', end='!')
+    
+# Thu, 10 Nov 2016 12:38:59
+type('tr' + "y this")
+#[Out]# str
+# Thu, 10 Nov 2016 12:39:17
+type('tr' + 5)
+# Thu, 10 Nov 2016 12:40:27
+slogan = 'Blue Springs South is the best'
+# Thu, 10 Nov 2016 12:40:33
+type(slogan)
+#[Out]# str
+# Thu, 10 Nov 2016 12:40:36
+slogan
+#[Out]# 'Blue Springs South is the best'
+# Thu, 10 Nov 2016 12:40:59
+type('tr' + "y this")
+#[Out]# str
+# Thu, 10 Nov 2016 12:41:12
+type('tr' + 5)
+# Thu, 10 Nov 2016 12:41:48
+#7. Strings and integers don't mix
+
+# Thu, 10 Nov 2016 12:42:10
+slogan[0]
+#[Out]# 'B'
+# Thu, 10 Nov 2016 12:42:16
+slogan[2]
+#[Out]# 'u'
+# Thu, 10 Nov 2016 12:42:22
+slogan[4]
+#[Out]# ' '
+# Thu, 10 Nov 2016 12:42:28
+slogan[30]
+# Thu, 10 Nov 2016 12:43:38
+# Unique to Python: index<0 counts from end
+
+# Thu, 10 Nov 2016 12:44:58
+#8. It just says the letter that the number aligns with
+
+# Thu, 10 Nov 2016 12:45:17
+slogan[0:5]
+#[Out]# 'Blue '
+# Thu, 10 Nov 2016 12:45:26
+slogan[5:21]
+#[Out]# 'Springs South is'
+# Thu, 10 Nov 2016 12:47:26
+slogan[:5]
+#[Out]# 'Blue '
+# Thu, 10 Nov 2016 12:47:46
+slogan[7:]
+#[Out]# 'rings South is the best'
+# Thu, 10 Nov 2016 12:48:03
+# 9
+
+# Thu, 10 Nov 2016 12:49:28
+slogan[26:]
+#[Out]# 'best'
+# Thu, 10 Nov 2016 12:49:52
+slogan[13:]
+#[Out]# 'South is the best'
+# Thu, 10 Nov 2016 12:49:59
+slogan[13:18]
+#[Out]# 'South'
+# Thu, 10 Nov 2016 12:51:46
+slogan[:3] + 'is my favorite color' 
+#[Out]# 'Bluis my favorite color'
+# Thu, 10 Nov 2016 12:52:04
+slogan[:4] + 'is my favorite color'
+#[Out]# 'Blueis my favorite color'
+# Thu, 10 Nov 2016 12:52:14
+slogan[:4] + ' is my favorite color'
+#[Out]# 'Blue is my favorite color'
+# Thu, 10 Nov 2016 12:52:27
+len(slogan)
+#[Out]# 30
+# Thu, 10 Nov 2016 12:52:34
+slogan[29]
+#[Out]# 't'
+# Thu, 10 Nov 2016 12:52:48
+activity = 'theater'
+# Thu, 10 Nov 2016 12:52:53
+len(activity)
+#[Out]# 7
+# Thu, 10 Nov 2016 12:54:17
+# 11a. Len counts the ammount of characters in a word, or phrase.
+
+# Thu, 10 Nov 2016 12:54:36
+activity[1 : len(activity)-1]
+#[Out]# 'heate'
+# Thu, 10 Nov 2016 12:55:33
+#11b. 1 starts it a character into it, and len counts the ammount of letters in it, and subtracts the last one
+
+# Thu, 10 Nov 2016 12:55:53
+'test' in 'Greatest good for the greatest number!'
+#[Out]# True
+# Thu, 10 Nov 2016 12:56:27
+# test goo is the in the phrase that's being tested.
+
+how_eligible('?",!')
+---------------------------------------------------------------------------
+NameError                                 Traceback (most recent call last)
+<ipython-input-2-3ed109bfc60c> in <module>()
+----> 1 how_eligible('?",!')
+
+NameError: name 'how_eligible' is not defined
+
+%run "c:\users\g69fe~1.har\appdata\local\temp\tmpwacat4.py"
+
+how_eligible('?",!')
+4
+
+# Conclusion
+
+
+#1. 41 characters, the index would be 40
+
+
+a = 'one string'
+
+b = 'another'
+
+c = a[:3] + ' and ' + b
+
+print (c[6:10])
+d an
+
+#2. It defines variables, and then prints them out.
+
+
+%logstop
+Logging hadn't been started.
+
+
+

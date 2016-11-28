@@ -1,0 +1,127 @@
+%cd "C:\Users\G.Harrison\Documents\Python\1_3_7"
+%cd "C:\Users\G.Harrison\Documents\Python\1_3_7"
+# Fri, 18 Nov 2016 12:48:19
+%run C:/Users/G.Harrison/Documents/Python/1_3_7/GabeHarrison1372.py# Fri, 18 Nov 2016 12:48:42
+matches([1,2,3,4,5],)
+# Fri, 18 Nov 2016 12:49:08
+matches([1,2,3,4,5])
+# Fri, 18 Nov 2016 12:49:12
+%run C:/Users/G.Harrison/Documents/Python/1_3_7/GabeHarrison1372.py# Fri, 18 Nov 2016 12:49:14
+matches([1,2,3,4,5])
+# Fri, 18 Nov 2016 12:51:20
+%run C:/Users/G.Harrison/Documents/Python/1_3_7/GabeHarrison1372.py# Fri, 18 Nov 2016 12:51:23
+matches([1,2,3,4,5])
+# Fri, 18 Nov 2016 12:51:35
+%run C:/Users/G.Harrison/Documents/Python/1_3_7/GabeHarrison1372.py# Fri, 18 Nov 2016 12:51:36
+matches([1,2,3,4,5])
+# Fri, 18 Nov 2016 12:59:13
+%run C:/Users/G.Harrison/Documents/Python/1_3_7/GabeHarrison1372.py# Fri, 18 Nov 2016 12:59:37
+matches([1,2,3,4,5])
+# Fri, 18 Nov 2016 12:59:54
+%run C:/Users/G.Harrison/Documents/Python/1_3_7/GabeHarrison1372.py# Fri, 18 Nov 2016 12:59:56
+matches([1,2,3,4,5])
+# Fri, 18 Nov 2016 12:59:58
+f
+#[Out]# <function f>
+# Fri, 18 Nov 2016 13:00:03
+print f
+# Fri, 18 Nov 2016 13:04:22
+%run C:/Users/G.Harrison/Documents/Python/1_3_7/GabeHarrison1372.py# Fri, 18 Nov 2016 13:04:55
+matches([1,2,3,4,5])
+# Fri, 18 Nov 2016 13:04:58
+matches([1,2,3,4,5])
+# Fri, 18 Nov 2016 13:05:00
+matches([1,2,3,4,5])
+# Fri, 18 Nov 2016 13:05:00
+matches([1,2,3,4,5])
+# Fri, 18 Nov 2016 13:05:01
+matches([1,2,3,4,5])
+# Fri, 18 Nov 2016 13:05:23
+%run C:/Users/G.Harrison/Documents/Python/1_3_7/GabeHarrison1372.py# Fri, 18 Nov 2016 13:05:24
+matches([1,2,3,4,5])
+# Fri, 18 Nov 2016 13:05:26
+matches([1,2,3,4,5])
+# Fri, 18 Nov 2016 13:05:27
+matches([1,2,3,4,5])
+# Fri, 18 Nov 2016 13:05:27
+matches([1,2,3,4,5])
+# Fri, 18 Nov 2016 13:05:28
+matches([1,2,3,4,5])
+# Fri, 18 Nov 2016 13:05:55
+%run C:/Users/G.Harrison/Documents/Python/1_3_7/GabeHarrison1372.py# Fri, 18 Nov 2016 13:06:18
+matches([2,5,3,6,1])
+# Fri, 18 Nov 2016 13:06:21
+matches([2,5,3,6,1])
+# Fri, 18 Nov 2016 13:06:23
+matches([2,5,3,6,1])
+# Fri, 18 Nov 2016 13:07:57
+%run C:/Users/G.Harrison/Documents/Python/1_3_7/GabeHarrison1372.py# Fri, 18 Nov 2016 13:08:02
+matches([2,5,3,6,1])
+# Fri, 18 Nov 2016 13:08:06
+matches([2,5,3,6,1])
+# Fri, 18 Nov 2016 13:10:34
+%run C:/Users/G.Harrison/Documents/Python/1_3_7/GabeHarrison1372.py# Fri, 18 Nov 2016 13:10:51
+matches([2,5,3,6,1],[2,5,3,6,1])
+# Fri, 18 Nov 2016 13:13:20
+%run C:/Users/G.Harrison/Documents/Python/1_3_7/GabeHarrison1372.py# Fri, 18 Nov 2016 13:13:42
+%run C:/Users/G.Harrison/Documents/Python/1_3_7/GabeHarrison1372.py# Fri, 18 Nov 2016 13:13:55
+%run C:/Users/G.Harrison/Documents/Python/1_3_7/GabeHarrison1372.py# Fri, 18 Nov 2016 13:15:12
+%run C:/Users/G.Harrison/Documents/Python/1_3_7/GabeHarrison1372.py# Fri, 18 Nov 2016 13:15:16
+matches([2,5,3,6,1],[2,5,3,6,1])
+# Fri, 18 Nov 2016 13:15:22
+matches([2,5,3,6,1],[2,5,3,6,2])
+# Fri, 18 Nov 2016 13:15:31
+matches([2,5,3,6,1],[2,5,3,6,1])
+# Fri, 18 Nov 2016 13:15:41
+matches([2,5,2,6,1],[2,5,3,6,1])
+# Fri, 18 Nov 2016 13:16:19
+%run C:/Users/G.Harrison/Documents/Python/1_3_7/GabeHarrison1372.py# Fri, 18 Nov 2016 13:16:21
+matches([2,5,2,6,1],[2,5,3,6,1])
+# Fri, 18 Nov 2016 13:17:08
+matches([2,5,2,6,1],[2,5,3,6,1])
+# Fri, 18 Nov 2016 13:19:06
+%run C:/Users/G.Harrison/Documents/Python/1_3_7/GabeHarrison1372.py# Fri, 18 Nov 2016 13:19:08
+matches([2,5,2,6,1],[2,5,3,6,1])
+# Fri, 18 Nov 2016 13:19:18
+%run C:/Users/G.Harrison/Documents/Python/1_3_7/GabeHarrison1372.py# Fri, 18 Nov 2016 13:19:20
+matches([2,5,2,6,1],[2,5,3,6,1])
+# Fri, 18 Nov 2016 13:19:55
+%logstop
+
+# IPython log file
+
+get_ipython().magic(u'cd "C:\\Users\\G.Harrison\\Documents\\Python\\1_3_7"')
+get_ipython().magic(u'cd "C:\\Users\\G.Harrison\\Documents\\Python\\1_3_7"')
+get_ipython().magic(u'logstart ort GabeHarrison137.log append')
+hangman(communism)
+hangman(communism)
+hangman('communism')
+get_ipython().magic(u'run C:/Users/G.Harrison/Documents/Python/1_3_7/GabeHarrison1373.py')
+get_ipython().magic(u'run C:/Users/G.Harrison/Documents/Python/1_3_7/GabeHarrison1373.py')
+get_ipython().magic(u'run C:/Users/G.Harrison/Documents/Python/1_3_7/GabeHarrison1373.py')
+game('communism')
+get_ipython().magic(u'run C:/Users/G.Harrison/Documents/Python/1_3_7/GabeHarrison1373.py')
+get_ipython().magic(u'run C:/Users/G.Harrison/Documents/Python/1_3_7/GabeHarrison1373.py')
+get_ipython().magic(u'run C:/Users/G.Harrison/Documents/Python/1_3_7/GabeHarrison1373.py')
+get_ipython().magic(u'run C:/Users/G.Harrison/Documents/Python/1_3_7/GabeHarrison1373.py')
+get_ipython().magic(u'run C:/Users/G.Harrison/Documents/Python/1_3_7/GabeHarrison1373.py')
+get_ipython().magic(u'run C:/Users/G.Harrison/Documents/Python/1_3_7/GabeHarrison1373.py')
+get_ipython().magic(u'run C:/Users/G.Harrison/Documents/Python/1_3_7/GabeHarrison1373.py')
+get_ipython().magic(u'run C:/Users/G.Harrison/Documents/Python/1_3_7/GabeHarrison1373.py')
+get_ipython().magic(u'run C:/Users/G.Harrison/Documents/Python/1_3_7/GabeHarrison1373.py')
+game('communism')
+get_ipython().magic(u'run C:/Users/G.Harrison/Documents/Python/1_3_7/GabeHarrison1373.py')
+game('communism')
+get_ipython().magic(u'run C:/Users/G.Harrison/Documents/Python/1_3_7/GabeHarrison1373.py')
+game('communism')
+get_ipython().magic(u'run C:/Users/G.Harrison/Documents/Python/1_3_7/GabeHarrison1373.py')
+game('communism')
+get_ipython().magic(u'cd "C:\\Users\\G.Harrison\\Documents\\Python\\1_3_4"')
+get_ipython().magic(u'cd "C:\\Users\\G.Harrison\\Documents\\Python\\1_3_7"')
+get_ipython().magic(u'run C:/Users/G.Harrison/Documents/Python/1_3_7/GabeHarrison1373.py')
+game(communsim)
+game('communism')
+get_ipython().magic(u'cd "C:\\Users\\G.Harrison\\Documents\\Python\\1_3_4"')
+get_ipython().magic(u'cd "C:\\Users\\G.Harrison\\Documents\\Python\\1_3_7"')
+# Conclusion. To make to code cleaner and easier to run on low end systems.
+

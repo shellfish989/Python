@@ -1,0 +1,329 @@
+%cd "C:\Users\G.Harrison\Documents\Python\1_3_6"
+# Mon, 14 Nov 2016 12:39:37
+#7. Tuples
+
+# Mon, 14 Nov 2016 12:40:02
+some_values =('a', 'b', 3)
+# Mon, 14 Nov 2016 12:40:06
+some_values
+#[Out]# ('a', 'b', 3)
+# Mon, 14 Nov 2016 12:40:40
+some_values[0]
+#[Out]# 'a'
+# Mon, 14 Nov 2016 12:40:51
+some_values[1]
+#[Out]# 'b'
+# Mon, 14 Nov 2016 12:42:02
+#7a. b is the 1st character, so it would output b
+
+# Mon, 14 Nov 2016 12:42:38
+#7b. it will output ab3, because it has all of the entries in range
+
+# Mon, 14 Nov 2016 12:42:49
+some_values[0:2]
+#[Out]# ('a', 'b')
+# Mon, 14 Nov 2016 12:43:12
+some_values[2]='3'
+# Mon, 14 Nov 2016 12:44:06
+a = 10
+# Mon, 14 Nov 2016 12:44:21
+b = (9, a, 11)
+# Mon, 14 Nov 2016 12:44:57
+a = 15
+# Mon, 14 Nov 2016 12:45:03
+a
+#[Out]# 15
+# Mon, 14 Nov 2016 12:45:05
+b
+#[Out]# (9, 10, 11)
+# Mon, 14 Nov 2016 12:45:50
+b[1] ==10
+#[Out]# True
+# Mon, 14 Nov 2016 12:47:44
+# 8a. the first character in 15 is 1, and 1 would go out to 10
+
+# Mon, 14 Nov 2016 12:48:05
+b = (9, a, 10)
+# Mon, 14 Nov 2016 12:48:09
+b[1]
+#[Out]# 15
+# Mon, 14 Nov 2016 12:48:43
+b[1]
+#[Out]# 15
+# Mon, 14 Nov 2016 12:50:20
+# 8b. 1 is still the first letter
+
+# Mon, 14 Nov 2016 12:51:18
+values ['a', 'b', 3]
+# Mon, 14 Nov 2016 12:51:32
+values = ['a', 'b', 3]
+# Mon, 14 Nov 2016 12:51:36
+values
+#[Out]# ['a', 'b', 3]
+# Mon, 14 Nov 2016 12:52:04
+values[1]
+#[Out]# 'b'
+# Mon, 14 Nov 2016 12:52:11
+values[1:]
+#[Out]# ['b', 3]
+# Mon, 14 Nov 2016 12:53:01
+# It lists off everything past a certain character
+
+# Mon, 14 Nov 2016 12:55:14
+values[2] == 3
+#[Out]# True
+# Mon, 14 Nov 2016 12:55:45
+values[2] + 5
+#[Out]# 8
+# Mon, 14 Nov 2016 12:55:49
+values[2]
+#[Out]# 3
+# Mon, 14 Nov 2016 12:56:27
+values[2] = '3'
+# Mon, 14 Nov 2016 12:56:39
+values[2] == 3
+#[Out]# False
+# Mon, 14 Nov 2016 12:56:52
+#10. there aren't quotes
+
+# Mon, 14 Nov 2016 12:56:56
+values[2] == '3'
+#[Out]# True
+# Mon, 14 Nov 2016 12:57:34
+values = values + [4, 5]
+# Mon, 14 Nov 2016 12:58:22
+values
+#[Out]# ['a', 'b', '3', 4, 5]
+# Mon, 14 Nov 2016 13:00:02
+#11a. it's adding to the previous value because of the brackets
+
+# Mon, 14 Nov 2016 13:00:20
+values.append(6,7])
+# Mon, 14 Nov 2016 13:00:26
+values.append([6,7])
+# Mon, 14 Nov 2016 13:00:30
+values
+#[Out]# ['a', 'b', '3', 4, 5, [6, 7]]
+# Mon, 14 Nov 2016 13:02:44
+values
+#[Out]# ['a', 'b', '3', 4, 5, [6, 7]]
+# Mon, 14 Nov 2016 13:02:50
+values[5]
+#[Out]# [6, 7]
+# Mon, 14 Nov 2016 13:03:05
+values.append(8)
+# Mon, 14 Nov 2016 13:03:07
+values
+#[Out]# ['a', 'b', '3', 4, 5, [6, 7], 8]
+# Mon, 14 Nov 2016 13:03:30
+#11b. The append makes it it's own value
+
+# Mon, 14 Nov 2016 13:07:30
+#12. Append just adds a the value to the end of your list
+
+# Mon, 14 Nov 2016 13:08:08
+values = values + 9
+# Mon, 14 Nov 2016 13:10:21
+#13. 9 isn't in list form
+
+# Mon, 14 Nov 2016 13:11:10
+values += [9,10]
+# Mon, 14 Nov 2016 13:12:05
+values
+#[Out]# ['a', 'b', '3', 4, 5, [6, 7], 8, 9, 10]
+# Mon, 14 Nov 2016 13:12:55
+x *= 3
+# Mon, 14 Nov 2016 13:13:01
+x = 6
+# Mon, 14 Nov 2016 13:13:08
+x *= 3
+# Mon, 14 Nov 2016 13:13:10
+x
+#[Out]# 18
+# Mon, 14 Nov 2016 13:13:32
+#14. x times 3 equals 18
+
+# Mon, 14 Nov 2016 13:16:15
+import random
+
+%cd "/\\bssd-stu-fs02\Canopy\App\appdata"
+
+Welcome to pylab, a matplotlib-based Python environment [backend: Qt4Agg].
+For more information, type 'help(pylab)'.
+
+Welcome to Canopy's interactive data-analysis environment!
+...  with pylab-backend set to: qt
+... Type '?' for more information.
+[Error 161] The specified path is invalid: u'///bssd-stu-fs02/Canopy/App/appdata'
+C:\Users\G.Harrison
+
+
+
+%logstart -ort Gabeharrison136.log append
+Activating auto-logging. Current session state plus future input saved.
+Filename       : Gabeharrison136.log
+Mode           : append
+Output logging : True
+Raw input log  : True
+Timestamping   : True
+State          : active
+
+import random
+
+ramdom.choice(values)
+---------------------------------------------------------------------------
+NameError                                 Traceback (most recent call last)
+<ipython-input-4-910ef281a08b> in <module>()
+----> 1 ramdom.choice(values)
+
+NameError: name 'ramdom' is not defined
+
+random.choice(values)
+---------------------------------------------------------------------------
+NameError                                 Traceback (most recent call last)
+<ipython-input-5-9418a975d7af> in <module>()
+----> 1 random.choice(values)
+
+NameError: name 'values' is not defined
+
+values = [2,3,4]
+
+random.choice(values)
+Out[7]: 2
+
+random.randint(5,8)
+Out[8]: 7
+
+random.uniform(5,8)
+Out[9]: 6.302517733019575
+
+roll_two_dice()
+---------------------------------------------------------------------------
+NameError                                 Traceback (most recent call last)
+<ipython-input-10-2d07169da0e5> in <module>()
+----> 1 roll_two_dice()
+
+NameError: name 'roll_two_dice' is not defined
+
+%cd "C:\Users\G.Harrison\Documents\Python\1_3_6"
+C:\Users\G.Harrison\Documents\Python\1_3_6
+
+random
+Out[12]: <module 'random' from '\\bssd-stu-fs02\Canopy\App\appdata\canopy-1.1.0.1371.win-x86_64\lib\random.pyc'>
+
+%run "c:\users\g69fe~1.har\appdata\local\temp\tmpq6hjwl.py"
+
+roll_two_dice()
+---------------------------------------------------------------------------
+TypeError                                 Traceback (most recent call last)
+<ipython-input-14-2d07169da0e5> in <module>()
+----> 1 roll_two_dice()
+
+TypeError: roll_two_dice() takes exactly 2 arguments (0 given)
+
+%run "c:\users\g69fe~1.har\appdata\local\temp\tmpeql5bb.py"
+
+%run "c:\users\g69fe~1.har\appdata\local\temp\tmpeql5bb.py"
+ERROR: File `u'c:\\users\\g69fe~1.har\\appdata\\local\\temp\\tmpeql5bb.py'` not found.
+
+%run "c:\users\g69fe~1.har\appdata\local\temp\tmpecuzek.py"
+
+roll_two_dice()
+---------------------------------------------------------------------------
+NameError                                 Traceback (most recent call last)
+<ipython-input-18-2d07169da0e5> in <module>()
+----> 1 roll_two_dice()
+
+c:\users\g69fe~1.har\appdata\local\temp\tmpecuzek.py in roll_two_dice()
+
+NameError: global name 'random' is not defined
+
+%run "c:\users\g69fe~1.har\appdata\local\temp\tmpmhc1of.py"
+
+roll_two_dice()
+test
+
+%run "c:\users\g69fe~1.har\appdata\local\temp\tmpyb5peu.py"
+  File "c:\users\g69fe~1.har\appdata\local\temp\tmpyb5peu.py", line 5
+    print ('Your number is ', dice1 + dice2'.')
+                                             ^
+SyntaxError: invalid syntax
+
+
+%run "c:\users\g69fe~1.har\appdata\local\temp\tmpy0zr42.py"
+
+roll_two_dice()
+('Your number is ', 6, '.')
+
+%run "c:\users\g69fe~1.har\appdata\local\temp\tmpsrqaoe.py"
+
+roll_two_dice()
+Your number is  8 .
+
+%run "c:\users\g69fe~1.har\appdata\local\temp\tmppv7r9g.py"
+
+roll_two_dice()
+Your number is  6 
+
+roll_two_dice()
+Your number is  6 
+
+roll_two_dice()
+Your number is  8 
+
+roll_two_dice()
+Your number is  7 
+
+roll_two_dice()
+Your number is  5 
+
+%run "c:\users\g69fe~1.har\appdata\local\temp\tmpfbjgax.py"
+
+guess_letter()
+---------------------------------------------------------------------------
+NameError                                 Traceback (most recent call last)
+<ipython-input-33-23d925a58e23> in <module>()
+----> 1 guess_letter()
+
+c:\users\g69fe~1.har\appdata\local\temp\tmpfbjgax.py in guess_letter()
+
+NameError: global name 'a' is not defined
+
+%run "c:\users\g69fe~1.har\appdata\local\temp\tmpf1z76r.py"
+
+guess_letter()
+l
+
+guess_letter()
+d
+
+guess_letter()
+x
+
+guess_letter()
+j
+
+guess_letter()
+f
+
+guess_letter()
+u
+
+# Conclusion 1. They're all different through the way they're put in. The quotes make it all one block, and the brackets make it a list, the parentheses make it a tuple.
+
+
+# Conclusion 2. For situations where having a lightweight program is important.
+
+
+%run "c:\users\g69fe~1.har\appdata\local\temp\tmp5hrecl.py"
+
+guess_letter()
+i
+
+guess_letter()
+m
+
+guess_letter()
+g
+
+%logstop

@@ -1,0 +1,277 @@
+%cd "C:\Users\G.Harrison\Documents\Python\1_3_7"
+%cd "/\\bssd-stu-fs02\Canopy\App\appdata"
+# Wed, 16 Nov 2016 12:46:49
+numbers = [1, 2 ,3, 4]
+# Wed, 16 Nov 2016 12:47:11
+for item in numbers:
+    
+    print(item**2)
+    
+# Wed, 16 Nov 2016 12:47:44
+help(range)
+# Wed, 16 Nov 2016 12:48:10
+range(4)
+#[Out]# [0, 1, 2, 3]
+# Wed, 16 Nov 2016 12:48:25
+range(20, 12, -3)
+#[Out]# [20, 17, 14]
+# Wed, 16 Nov 2016 12:48:37
+range(5, 19, 2)
+#[Out]# [5, 7, 9, 11, 13, 15, 17]
+# Wed, 16 Nov 2016 12:48:51
+#6. range()
+
+# Wed, 16 Nov 2016 12:51:47
+range(0, 9, 2)
+#[Out]# [0, 2, 4, 6, 8]
+# Wed, 16 Nov 2016 12:52:01
+range(0, 11, 2)
+#[Out]# [0, 2, 4, 6, 8, 10]
+# Wed, 16 Nov 2016 12:52:08
+range(3, 11, 2)
+#[Out]# [3, 5, 7, 9]
+# Wed, 16 Nov 2016 12:52:14
+range(4, 11, 2)
+#[Out]# [4, 6, 8, 10]
+# Wed, 16 Nov 2016 12:52:36
+%run C:/Users/G.Harrison/Documents/Python/1_3_7/GabeHarrison137.py# Wed, 16 Nov 2016 12:52:44
+days()
+# Wed, 16 Nov 2016 12:54:48
+%run C:/Users/G.Harrison/Documents/Python/1_3_7/GabeHarrison137.py# Wed, 16 Nov 2016 12:54:56
+days()
+# Wed, 16 Nov 2016 12:55:08
+%run C:/Users/G.Harrison/Documents/Python/1_3_7/GabeHarrison137.py# Wed, 16 Nov 2016 12:55:13
+days()
+# Wed, 16 Nov 2016 12:55:22
+%run C:/Users/G.Harrison/Documents/Python/1_3_7/GabeHarrison137.py# Wed, 16 Nov 2016 12:55:25
+days()
+# Wed, 16 Nov 2016 13:01:17
+%run C:/Users/G.Harrison/Documents/Python/1_3_7/GabeHarrison137.py# Wed, 16 Nov 2016 13:11:08
+%run C:/Users/G.Harrison/Documents/Python/1_3_7/GabeHarrison137.py# Wed, 16 Nov 2016 13:11:13
+days()
+# Wed, 16 Nov 2016 13:14:07
+#8. Range, Import, Print, Input, Raw Input
+
+# Wed, 16 Nov 2016 13:14:53
+picks()
+%cd "C:\Users\G.Harrison\Documents\Python\1_3_7"
+-ort %logstart GabeHarrison137.log -append
+%logstart -ort GabeHarrison137.log -append
+# Thu, 17 Nov 2016 12:51:22
+picks()
+# Thu, 17 Nov 2016 12:52:41
+picks()
+# Thu, 17 Nov 2016 12:52:45
+picks(1)
+# Thu, 17 Nov 2016 12:53:35
+pick()
+# Thu, 17 Nov 2016 12:55:05
+days()
+# Thu, 17 Nov 2016 12:57:16
+%run C:/Users/G.Harrison/Documents/Python/1_3_7/GabeHarrison1372.py# Thu, 17 Nov 2016 12:58:08
+%run C:/Users/G.Harrison/Documents/Python/1_3_7/GabeHarrison1372.py# Thu, 17 Nov 2016 12:58:33
+%cd "C:\Users\G.Harrison\Documents\Python\1_3_7"# Thu, 17 Nov 2016 12:58:57
+%logstart -ort GabeHarrison137.log append
+# Thu, 17 Nov 2016 12:59:02
+%run C:/Users/G.Harrison/Documents/Python/1_3_7/GabeHarrison1372.py# Thu, 17 Nov 2016 12:59:50
+%run C:/Users/G.Harrison/Documents/Python/1_3_7/GabeHarrison1372.py# Thu, 17 Nov 2016 13:00:13
+%run C:/Users/G.Harrison/Documents/Python/1_3_7/GabeHarrison1372.py# Thu, 17 Nov 2016 13:00:20
+%run C:/Users/G.Harrison/Documents/Python/1_3_7/GabeHarrison1372.py# Thu, 17 Nov 2016 13:00:26
+%run C:/Users/G.Harrison/Documents/Python/1_3_7/GabeHarrison1372.py# Thu, 17 Nov 2016 13:00:33
+%run C:/Users/G.Harrison/Documents/Python/1_3_7/GabeHarrison1372.py# Thu, 17 Nov 2016 13:00:46
+%run C:/Users/G.Harrison/Documents/Python/1_3_7/GabeHarrison1372.py# Thu, 17 Nov 2016 13:01:08
+%run C:/Users/G.Harrison/Documents/Python/1_3_7/GabeHarrison1372.py# Thu, 17 Nov 2016 13:01:18
+%run C:/Users/G.Harrison/Documents/Python/1_3_7/GabeHarrison1372.py# Thu, 17 Nov 2016 13:01:39
+%run C:/Users/G.Harrison/Documents/Python/1_3_7/GabeHarrison1372.py# Thu, 17 Nov 2016 13:01:49
+picks()
+# Thu, 17 Nov 2016 13:02:38
+%run C:/Users/G.Harrison/Documents/Python/1_3_7/GabeHarrison1372.py# Thu, 17 Nov 2016 13:02:46
+days()
+# Thu, 17 Nov 2016 13:07:19
+%run C:/Users/G.Harrison/Documents/Python/1_3_7/GabeHarrison1372.py# Thu, 17 Nov 2016 13:07:34
+roll_hundred_pair()
+# Thu, 17 Nov 2016 13:07:42
+%run C:/Users/G.Harrison/Documents/Python/1_3_7/GabeHarrison1372.py# Thu, 17 Nov 2016 13:07:44
+roll_hundred_pair()
+# Thu, 17 Nov 2016 13:08:06
+roll_hundred_pair()
+# Thu, 17 Nov 2016 13:08:17
+%run C:/Users/G.Harrison/Documents/Python/1_3_7/GabeHarrison1372.py# Thu, 17 Nov 2016 13:08:20
+roll_hundred_pair()
+# Thu, 17 Nov 2016 13:09:58
+%run C:/Users/G.Harrison/Documents/Python/1_3_7/GabeHarrison1372.py# Thu, 17 Nov 2016 13:10:01
+roll_hundred_pair()
+# Thu, 17 Nov 2016 13:11:19
+%run C:/Users/G.Harrison/Documents/Python/1_3_7/GabeHarrison1372.py# Thu, 17 Nov 2016 13:11:28
+%run C:/Users/G.Harrison/Documents/Python/1_3_7/GabeHarrison1372.py# Thu, 17 Nov 2016 13:11:31
+roll_hundred_pair()
+# Thu, 17 Nov 2016 13:15:26
+%run C:/Users/G.Harrison/Documents/Python/1_3_7/GabeHarrison1372.py# Thu, 17 Nov 2016 13:15:34
+dice(5)
+# Thu, 17 Nov 2016 13:15:46
+%run C:/Users/G.Harrison/Documents/Python/1_3_7/GabeHarrison1372.py# Thu, 17 Nov 2016 13:15:48
+dice(5)
+# Thu, 17 Nov 2016 13:15:50
+dice(5)
+# Thu, 17 Nov 2016 13:15:51
+dice(5)
+# Thu, 17 Nov 2016 13:15:52
+dice(5)
+# Thu, 17 Nov 2016 13:18:12
+%logstop
+
+%cd "C:\Users\G.Harrison\Documents\Python\1_3_7"
+%cd "C:\Users\G.Harrison\Documents\Python\1_3_7"
+# Fri, 18 Nov 2016 12:48:19
+%run C:/Users/G.Harrison/Documents/Python/1_3_7/GabeHarrison1372.py# Fri, 18 Nov 2016 12:48:42
+matches([1,2,3,4,5],)
+# Fri, 18 Nov 2016 12:49:08
+matches([1,2,3,4,5])
+# Fri, 18 Nov 2016 12:49:12
+%run C:/Users/G.Harrison/Documents/Python/1_3_7/GabeHarrison1372.py# Fri, 18 Nov 2016 12:49:14
+matches([1,2,3,4,5])
+# Fri, 18 Nov 2016 12:51:20
+%run C:/Users/G.Harrison/Documents/Python/1_3_7/GabeHarrison1372.py# Fri, 18 Nov 2016 12:51:23
+matches([1,2,3,4,5])
+# Fri, 18 Nov 2016 12:51:35
+%run C:/Users/G.Harrison/Documents/Python/1_3_7/GabeHarrison1372.py# Fri, 18 Nov 2016 12:51:36
+matches([1,2,3,4,5])
+# Fri, 18 Nov 2016 12:59:13
+%run C:/Users/G.Harrison/Documents/Python/1_3_7/GabeHarrison1372.py# Fri, 18 Nov 2016 12:59:37
+matches([1,2,3,4,5])
+# Fri, 18 Nov 2016 12:59:54
+%run C:/Users/G.Harrison/Documents/Python/1_3_7/GabeHarrison1372.py# Fri, 18 Nov 2016 12:59:56
+matches([1,2,3,4,5])
+# Fri, 18 Nov 2016 12:59:58
+f
+#[Out]# <function f>
+# Fri, 18 Nov 2016 13:00:03
+print f
+# Fri, 18 Nov 2016 13:04:22
+%run C:/Users/G.Harrison/Documents/Python/1_3_7/GabeHarrison1372.py# Fri, 18 Nov 2016 13:04:55
+matches([1,2,3,4,5])
+# Fri, 18 Nov 2016 13:04:58
+matches([1,2,3,4,5])
+# Fri, 18 Nov 2016 13:05:00
+matches([1,2,3,4,5])
+# Fri, 18 Nov 2016 13:05:00
+matches([1,2,3,4,5])
+# Fri, 18 Nov 2016 13:05:01
+matches([1,2,3,4,5])
+# Fri, 18 Nov 2016 13:05:23
+%run C:/Users/G.Harrison/Documents/Python/1_3_7/GabeHarrison1372.py# Fri, 18 Nov 2016 13:05:24
+matches([1,2,3,4,5])
+# Fri, 18 Nov 2016 13:05:26
+matches([1,2,3,4,5])
+# Fri, 18 Nov 2016 13:05:27
+matches([1,2,3,4,5])
+# Fri, 18 Nov 2016 13:05:27
+matches([1,2,3,4,5])
+# Fri, 18 Nov 2016 13:05:28
+matches([1,2,3,4,5])
+# Fri, 18 Nov 2016 13:05:55
+%run C:/Users/G.Harrison/Documents/Python/1_3_7/GabeHarrison1372.py# Fri, 18 Nov 2016 13:06:18
+matches([2,5,3,6,1])
+# Fri, 18 Nov 2016 13:06:21
+matches([2,5,3,6,1])
+# Fri, 18 Nov 2016 13:06:23
+matches([2,5,3,6,1])
+# Fri, 18 Nov 2016 13:07:57
+%run C:/Users/G.Harrison/Documents/Python/1_3_7/GabeHarrison1372.py# Fri, 18 Nov 2016 13:08:02
+matches([2,5,3,6,1])
+# Fri, 18 Nov 2016 13:08:06
+matches([2,5,3,6,1])
+# Fri, 18 Nov 2016 13:10:34
+%run C:/Users/G.Harrison/Documents/Python/1_3_7/GabeHarrison1372.py# Fri, 18 Nov 2016 13:10:51
+matches([2,5,3,6,1],[2,5,3,6,1])
+# Fri, 18 Nov 2016 13:13:20
+%run C:/Users/G.Harrison/Documents/Python/1_3_7/GabeHarrison1372.py# Fri, 18 Nov 2016 13:13:42
+%run C:/Users/G.Harrison/Documents/Python/1_3_7/GabeHarrison1372.py# Fri, 18 Nov 2016 13:13:55
+%run C:/Users/G.Harrison/Documents/Python/1_3_7/GabeHarrison1372.py# Fri, 18 Nov 2016 13:15:12
+%run C:/Users/G.Harrison/Documents/Python/1_3_7/GabeHarrison1372.py# Fri, 18 Nov 2016 13:15:16
+matches([2,5,3,6,1],[2,5,3,6,1])
+# Fri, 18 Nov 2016 13:15:22
+matches([2,5,3,6,1],[2,5,3,6,2])
+# Fri, 18 Nov 2016 13:15:31
+matches([2,5,3,6,1],[2,5,3,6,1])
+# Fri, 18 Nov 2016 13:15:41
+matches([2,5,2,6,1],[2,5,3,6,1])
+# Fri, 18 Nov 2016 13:16:19
+%run C:/Users/G.Harrison/Documents/Python/1_3_7/GabeHarrison1372.py# Fri, 18 Nov 2016 13:16:21
+matches([2,5,2,6,1],[2,5,3,6,1])
+# Fri, 18 Nov 2016 13:17:08
+matches([2,5,2,6,1],[2,5,3,6,1])
+# Fri, 18 Nov 2016 13:19:06
+%run C:/Users/G.Harrison/Documents/Python/1_3_7/GabeHarrison1372.py# Fri, 18 Nov 2016 13:19:08
+matches([2,5,2,6,1],[2,5,3,6,1])
+# Fri, 18 Nov 2016 13:19:18
+%run C:/Users/G.Harrison/Documents/Python/1_3_7/GabeHarrison1372.py# Fri, 18 Nov 2016 13:19:20
+matches([2,5,2,6,1],[2,5,3,6,1])
+# Fri, 18 Nov 2016 13:19:55
+%logstop
+%cd "C:\Users\G.Harrison\Documents\Python\1_3_7"
+%cd "C:\Users\G.Harrison\Documents\Python\1_3_7"
+# Mon, 21 Nov 2016 12:42:30
+%cd "C:\Users\G.Harrison\Documents\Python\1_3_3"# Mon, 21 Nov 2016 12:43:17
+letter_in_word(cmmunism)
+# Mon, 21 Nov 2016 12:43:27
+letter_in_word(cmmunism,communism)
+# Mon, 21 Nov 2016 12:43:40
+letter_in_word(communism)
+# Mon, 21 Nov 2016 12:44:22
+%cd "C:\Users\G.Harrison\Documents\Python\1_3_7"# Mon, 21 Nov 2016 12:44:27
+%cd "C:\Users\G.Harrison\Documents\Python\1_3_3"# Mon, 21 Nov 2016 12:45:01
+%cd "C:\Users\G.Harrison\Documents\Python\1_3_7"# Mon, 21 Nov 2016 12:47:36
+%run C:/Users/G.Harrison/Documents/Python/1_3_7/GabeHarrison1373.py# Mon, 21 Nov 2016 12:48:24
+%run C:/Users/G.Harrison/Documents/Python/1_3_7/GabeHarrison1373.py# Mon, 21 Nov 2016 12:48:35
+hangman(c,communism)
+# Mon, 21 Nov 2016 12:49:07
+%cd "C:\Users\G.Harrison\Documents\Python\1_3_6"# Mon, 21 Nov 2016 12:49:19
+%cd "C:\Users\G.Harrison\Documents\Python\1_3_7"# Mon, 21 Nov 2016 12:50:14
+%run C:/Users/G.Harrison/Documents/Python/1_3_7/GabeHarrison1373.py# Mon, 21 Nov 2016 12:50:19
+hangman(c,communism)
+# Mon, 21 Nov 2016 12:50:37
+%run C:/Users/G.Harrison/Documents/Python/1_3_7/GabeHarrison1373.py# Mon, 21 Nov 2016 12:50:40
+hangman(c,communism)
+# Mon, 21 Nov 2016 12:52:40
+%run C:/Users/G.Harrison/Documents/Python/1_3_7/GabeHarrison1373.py# Mon, 21 Nov 2016 12:52:42
+hangman(c,communism)
+# Mon, 21 Nov 2016 12:53:07
+hangman('c', 'commuinsm')
+#[Out]# True
+# Mon, 21 Nov 2016 12:53:48
+%run C:/Users/G.Harrison/Documents/Python/1_3_7/GabeHarrison1373.py# Mon, 21 Nov 2016 12:53:51
+hangman(c,communism)
+# Mon, 21 Nov 2016 12:53:56
+hangman('c', 'commuinsm')
+#[Out]# False
+# Mon, 21 Nov 2016 12:54:22
+%run C:/Users/G.Harrison/Documents/Python/1_3_7/GabeHarrison1373.py# Mon, 21 Nov 2016 12:54:25
+hangman(c,communism)
+# Mon, 21 Nov 2016 12:56:17
+hangman(c,communism)
+# Mon, 21 Nov 2016 12:56:19
+hangman('c', 'commuinsm')
+#[Out]# True
+# Mon, 21 Nov 2016 12:56:37
+%cd "C:\Users\G.Harrison\Documents\Python\1_3_6"# Mon, 21 Nov 2016 12:56:38
+%cd "C:\Users\G.Harrison\Documents\Python\1_3_3"# Mon, 21 Nov 2016 12:56:39
+%cd "C:\Users\G.Harrison\Documents\Python\1_3_6"# Mon, 21 Nov 2016 12:56:40
+%cd "C:\Users\G.Harrison\Documents\Python\1_3_7"# Mon, 21 Nov 2016 13:10:21
+hangman(n,no)
+# Mon, 21 Nov 2016 13:10:42
+hangman('n','no')
+#[Out]# True
+# Mon, 21 Nov 2016 13:12:36
+%run C:/Users/G.Harrison/Documents/Python/1_3_7/GabeHarrison1373.py# Mon, 21 Nov 2016 13:13:10
+hangman('com','communism')
+# Mon, 21 Nov 2016 13:14:49
+%run C:/Users/G.Harrison/Documents/Python/1_3_7/GabeHarrison1373.py# Mon, 21 Nov 2016 13:14:52
+hangman('com','communism')
+# Mon, 21 Nov 2016 13:15:43
+%cd "C:\Users\G.Harrison\Documents\Python\1_3_6"%cd "C:\Users\G.Harrison\Documents\Python\1_3_7"
+# Tue, 22 Nov 2016 12:44:03
+%cd "C:\Users\G.Harrison\Documents\Python\1_3_5"# Tue, 22 Nov 2016 12:44:13
+%cd "C:\Users\G.Harrison\Documents\Python\1_3_4"# Tue, 22 Nov 2016 12:44:28
+%run C:/Users/G.Harrison/Documents/Python/1_3_4/gabeharrison134.py# Tue, 22 Nov 2016 12:44:37
+guess_once()

@@ -1,0 +1,171 @@
+# IPython log file
+
+%cd "/\\bssd-stu-fs02\Canopy\App\appdata"
+%cd "C:\Users\G.Harrison\Documents\1.3.3"
+%cd "/\\bssd-stu-fs02\Canopy\App\appdata"
+# Tue, 25 Oct 2016 12:35:37
+# Gabe harrison 1.3.3 IPython log
+
+# Tue, 25 Oct 2016 12:36:21
+a == 3 # Boolean expression, also called a conditional
+# Tue, 25 Oct 2016 12:37:40
+a * 3
+# Tue, 25 Oct 2016 12:38:11
+a * 3
+# Tue, 25 Oct 2016 12:38:13
+a * 3
+# Tue, 25 Oct 2016 12:38:33
+a* 3
+# Tue, 25 Oct 2016 12:38:36
+a * 3
+# Tue, 25 Oct 2016 12:38:58
+a = 3
+# Tue, 25 Oct 2016 12:39:02
+a * 3
+#[Out]# 9
+# Tue, 25 Oct 2016 12:39:07
+a ** 3
+#[Out]# 27
+# Tue, 25 Oct 2016 12:40:13
+a == 3 # Boolean expression, also called a conditional
+#[Out]# True
+# Tue, 25 Oct 2016 12:41:56
+a + 1 >= 2 and a ** 2 != 5 #compound conditional
+#[Out]# True
+# Tue, 25 Oct 2016 12:42:26
+# 3a. Prediction
+
+# Tue, 25 Oct 2016 12:42:48
+# 3a. Prediction
+a**2 >= 0 and not a>3
+#[Out]# True
+# Tue, 25 Oct 2016 12:43:36
+# 3b. prediction
+a+2 == 5 or a != 3
+#[Out]# True
+# Tue, 25 Oct 2016 12:46:13
+x, y = (65,40)
+# Tue, 25 Oct 2016 12:46:16
+x
+#[Out]# 65
+# Tue, 25 Oct 2016 12:46:34
+(x>50 and x<80)
+#[Out]# True
+# Tue, 25 Oct 2016 12:47:01
+(x>50 and x<80) and (y>=30 and y<=45)
+#[Out]# True
+# Tue, 25 Oct 2016 12:47:34
+x, y = (90, 115)
+# Tue, 25 Oct 2016 12:47:45
+(x>50 and x<80) and (y>=30 and y<=45)
+#[Out]# False
+# Tue, 25 Oct 2016 12:48:01
+x, y = (90, 115)
+# Tue, 25 Oct 2016 12:48:09
+(x>50 and x<80) and (y>=30 and y<=45)
+#[Out]# False
+# Tue, 25 Oct 2016 12:59:13
+%run "c:\users\g69fe~1.har\appdata\local\temp\tmpn5ldfe.py"# Tue, 25 Oct 2016 12:59:29
+%run "c:\users\g69fe~1.har\appdata\local\temp\tmpwqpice.py"# Tue, 25 Oct 2016 13:00:33
+%run "c:\users\g69fe~1.har\appdata\local\temp\tmpkide15.py"# Tue, 25 Oct 2016 13:00:42
+%run "c:\users\g69fe~1.har\appdata\local\temp\tmp6cbyjf.py"# Tue, 25 Oct 2016 13:00:46
+%run "c:\users\g69fe~1.har\appdata\local\temp\tmpqtrurm.py"# Tue, 25 Oct 2016 13:01:46
+%run "c:\users\g69fe~1.har\appdata\local\temp\tmplk6fvb.py"# Tue, 25 Oct 2016 13:02:19
+%run "c:\users\g69fe~1.har\appdata\local\temp\tmprded9i.py"# Tue, 25 Oct 2016 13:02:47
+age_limit_output(10)
+# Tue, 25 Oct 2016 13:02:55
+age_limit_output(16)
+# Tue, 25 Oct 2016 13:06:37
+%run "c:\users\g69fe~1.har\appdata\local\temp\tmp6vmm59.py"# Tue, 25 Oct 2016 13:07:09
+%run "c:\users\g69fe~1.har\appdata\local\temp\tmp8mde0q.py"# Tue, 25 Oct 2016 13:07:46
+report_grade = 79
+# Tue, 25 Oct 2016 13:08:04
+report_grade(79)
+# Tue, 25 Oct 2016 13:08:48
+%run "c:\users\g69fe~1.har\appdata\local\temp\tmpyqdfau.py"# Tue, 25 Oct 2016 13:09:09
+%run "c:\users\g69fe~1.har\appdata\local\temp\tmpp_emfz.py"# Tue, 25 Oct 2016 13:09:14
+report_grade(79)
+# Tue, 25 Oct 2016 13:09:29
+percent(79)
+# Tue, 25 Oct 2016 13:10:38
+report_grade(79)
+# Tue, 25 Oct 2016 13:13:28
+%run "c:\users\g69fe~1.har\appdata\local\temp\tmpeqozb5.py"# Tue, 25 Oct 2016 13:13:31
+report_grade(79)
+# Tue, 25 Oct 2016 13:14:25
+report_grade_output(80)
+# Tue, 25 Oct 2016 13:15:45
+report_grade_output(80)
+%cd "C:\Users\G.Harrison\Documents\1.3.3"
+%cd "C:\Users\G.Harrison\Documents\1.3.3"
+# Wed, 26 Oct 2016 12:37:50
+report_grade_output(80)
+# Wed, 26 Oct 2016 12:37:57
+report_grade_output(80)
+# Wed, 26 Oct 2016 12:38:01
+report_grade(79)
+# Wed, 26 Oct 2016 12:38:04
+%run C:/Users/G.Harrison/Documents/1.3.3/1_3_3.py# Wed, 26 Oct 2016 12:38:07
+report_grade(79)
+# Wed, 26 Oct 2016 12:39:02
+report_grade(79)
+# Wed, 26 Oct 2016 12:39:05
+report_grade_output(80)
+# Wed, 26 Oct 2016 12:42:25
+'t' in 'string' # includes lowercase t character
+#[Out]# True
+# Wed, 26 Oct 2016 12:42:36
+'T' in 'string' # includes lowercase t character
+#[Out]# False
+# Wed, 26 Oct 2016 12:43:02
+3 in [1,2,3] # this list contains the int 3
+#[Out]# True
+# Wed, 26 Oct 2016 12:43:18
+'3' in [1,2,3] # this list contains the int 3
+#[Out]# False
+# Wed, 26 Oct 2016 12:45:50
+vowel(communism)
+# Wed, 26 Oct 2016 12:45:57
+%run C:/Users/G.Harrison/Documents/1.3.3/1_3_3.py# Wed, 26 Oct 2016 12:45:59
+vowel(communism)
+# Wed, 26 Oct 2016 12:46:07
+vowel(c)
+# Wed, 26 Oct 2016 12:49:16
+%run C:/Users/G.Harrison/Documents/1.3.3/1_3_3.py# Wed, 26 Oct 2016 12:49:30
+letter_in_word(c)
+# Wed, 26 Oct 2016 12:49:38
+letter_in_word(c,communism)
+# Wed, 26 Oct 2016 12:50:45
+letter_in_word('c', 'communism')
+#[Out]# True
+# Wed, 26 Oct 2016 12:51:07
+letter_in_word('x', 'communism')
+#[Out]# False
+# Wed, 26 Oct 2016 12:55:41
+%run C:/Users/G.Harrison/Documents/1.3.3/1_3_3.py# Wed, 26 Oct 2016 12:55:52
+%run C:/Users/G.Harrison/Documents/1.3.3/1_3_3.py# Wed, 26 Oct 2016 12:56:01
+%run C:/Users/G.Harrison/Documents/1.3.3/1_3_3.py# Wed, 26 Oct 2016 12:56:13
+hint(red, secret)
+# Wed, 26 Oct 2016 12:59:43
+hint('red', secret)
+# Wed, 26 Oct 2016 13:03:45
+hint('red', secret)
+# Wed, 26 Oct 2016 13:04:32
+%run C:/Users/G.Harrison/Documents/1.3.3/1_3_3.py# Wed, 26 Oct 2016 13:04:39
+hint('red', 'red')
+#[Out]# True
+# Wed, 26 Oct 2016 13:05:14
+secret = ['red','red','yellow','yellow','black']
+# Wed, 26 Oct 2016 13:05:29
+hint('red', secret)
+#[Out]# True
+# Wed, 26 Oct 2016 13:06:00
+hint('blue', secret)
+#[Out]# False
+# Wed, 26 Oct 2016 13:06:29
+%run C:/Users/G.Harrison/Documents/1.3.3/1_3_3.py# Wed, 26 Oct 2016 13:06:32
+hint('blue', secret)
+# Wed, 26 Oct 2016 13:06:41
+hint('red', secret)
+# Wed, 26 Oct 2016 13:10:49
+%logstop
